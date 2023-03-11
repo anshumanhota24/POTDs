@@ -11,3 +11,4 @@ class Solution {
         return s.substring(i, j);
     }
 }
+// https://leetcode.com/problems/truncate-sentence/description/
